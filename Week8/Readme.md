@@ -1,0 +1,1 @@
+Thuật toán Seam Carving
